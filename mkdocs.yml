@@ -1,7 +1,6 @@
 site_name: Trial with 404
 site_url: https://stwissel.github.io/mknotfound/
 use_directory_urls: false
-site_dir: docs
 # theme:
 #   name: material
 #   language: en
