@@ -1,13 +1,13 @@
 site_name: Trial with 404
 site_url: https://stwissel.github.io/mknotfound/
 use_directory_urls: false
-# theme:
-#   name: material
-#   language: en
-#   features:
-#     - navigation.tabs
-#     - navigation.indexes
-#     - navigation.top
+theme:
+   name: material
+   language: en
+   features:
+     - navigation.tabs
+     - navigation.indexes
+     - navigation.top
 
 # Repository
 repo_url: https://github.com/Stwissel/mknotfound
